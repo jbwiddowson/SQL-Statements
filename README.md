@@ -1,4 +1,3 @@
-# SQL-Statements
 # SQL Portfolio Document
 
 I utilized SQL to filter information from a dataset by using SQL arguments such as <, >, =>, SELECT, WHERE, AND, OR, and NOT.
